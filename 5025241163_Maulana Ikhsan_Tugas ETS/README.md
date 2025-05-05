@@ -97,21 +97,37 @@
   4. Hasil akhir dan testcase  
        Berikut merupakan output dari program berdasar tescases yang diberikan  
        Testcases:
-       1. - Input: `1`, follow up dengan `30` -> `Kakek` -> `79`
-          - Output: ![image](https://github.com/user-attachments/assets/d2e9e638-599a-4ddd-b42b-9839270fb338)
+       1. - Input: `1`, follow up dengan `87` -> `Kakek` -> `666`
+          - Output: ![image](https://github.com/user-attachments/assets/c2e4770d-cd75-48c2-aa9d-36c6f8d5442b)
 
-       2. - Input: `1`, follow up dengan `50` -> `Bapak` -> `31`
-          - Output: ![image](https://github.com/user-attachments/assets/c9a124c7-ee0c-4425-a2e0-e81ae37a051b)
+       2. - Input: `1`, follow up dengan `46` -> `Bapak` -> `371`
+          - Output: ![image](https://github.com/user-attachments/assets/6e2c4453-56bf-41bf-a918-0fbeaf82def3)
 
-       3. - Input: `1`, follow up dengan `70` -> `Ibu` -> `0`
-          - Output: ![image](https://github.com/user-attachments/assets/1b938228-e83a-420d-bfeb-4786621cc82d)
+       3. - Input: `1`, follow up dengan `42` -> `Ibu` -> `0`
+          - Output: ![image](https://github.com/user-attachments/assets/333b55f4-bf51-4f4e-aaa6-a80d6dbeee95)
 
-       4. - Input: `4`
-          - Output: ![image](https://github.com/user-attachments/assets/8297c4c9-c181-47f0-8a95-dfa0919952df)
+       4. - Input: `1`, follow up dengan `21` -> `Anak1` -> `0`
+          - Output: ![image](https://github.com/user-attachments/assets/d86ed68b-1518-42e4-8674-fe3bb2ff5506)
+
+       5. - Input: `1`, follow up dengan `19` -> `Anak2` -> `0`
+          - Output: ![image](https://github.com/user-attachments/assets/72ef98f6-9e7b-477d-a8b6-5981419ecdde)
+
+       6. - Input: `2`
+          - Output: ![image](https://github.com/user-attachments/assets/06b1090a-e849-4851-95f8-8ac5556c9a31)
   
-       5. - Input: `4`
-          - Output: ![image](https://github.com/user-attachments/assets/8297c4c9-c181-47f0-8a95-dfa0919952df)
+       7. - Input: `3`, follow up dengan `46`
+          - Output: ![image](https://github.com/user-attachments/assets/c86eff32-b18e-4cfa-9422-36fbc2ebd787)
+
+       8. - Input: `2`
+          - Output: ![image](https://github.com/user-attachments/assets/ebcf8ac1-6db2-4c3f-be5b-30ac4bebb37b)
+
+       9. - Input: `3`, follow up dengan `87`
+          - Output: ![image](https://github.com/user-attachments/assets/522f0c28-ab24-41bd-9d0c-c62becc92a99)
+
+       10. - Input: `2`
+          - Output: ![image](https://github.com/user-attachments/assets/d54e8287-e47b-4c8f-a3ef-c16eb00db21a)
   
-       6. - Input: `4`
-          - Output: ![image](https://github.com/user-attachments/assets/8297c4c9-c181-47f0-8a95-dfa0919952df)
+       11. - Input: `4`
+          - Output: ![image](https://github.com/user-attachments/assets/60feb3e2-d149-49a3-9b0f-0a1301db7b3d)
+
 

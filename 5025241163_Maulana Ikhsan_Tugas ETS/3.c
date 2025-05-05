@@ -5,8 +5,8 @@
 typedef struct TreeNode {
     int id;
     char name[31];
-    int inheritance;      // initial inheritance or current total
-    int received;         // amount received from distribution
+    int inheritance;
+    int received;
     struct TreeNode *left;
     struct TreeNode *right;
 } TreeNode;

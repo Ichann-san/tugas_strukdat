@@ -5,8 +5,7 @@
 typedef struct TreeNode {
     int id;
     char name[31];
-    int inheritance;
-    int received;
+    int inheritance, received;
     struct TreeNode *left;
     struct TreeNode *right;
 } TreeNode;
@@ -57,7 +56,6 @@ void printInorder(TreeNode* root) {
 
 void distributeInheritance(TreeNode* node) {
     if (!node) return;
-    // if leaf, inheritance is consumed/hangus
     if (!node->left && !node->right) {
         node->inheritance = 0;
         return;
@@ -74,7 +72,6 @@ void distributeInheritance(TreeNode* node) {
         node->right->received += rightAmt;
     }
     node->inheritance = 0;
-    // continue distribution down the tree
     if (node->left) distributeInheritance(node->left);
     if (node->right) distributeInheritance(node->right);
 }

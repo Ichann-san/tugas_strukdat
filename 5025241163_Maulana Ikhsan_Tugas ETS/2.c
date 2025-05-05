@@ -94,8 +94,8 @@ void tampilkanLaporan() {
     Node* current = head;
     printf("Daftar Laporan:\n");
     while (current != NULL) {
-        printf("ID: %d, Nama: %s, Prioritas: %d, Timestamp: %d\n",
-               current->id, current->nama, current->prioritas, current->timestamp);
+        printf("ID: %d, Nama: %s, Prioritas: %d\n",
+               current->id, current->nama, current->prioritas);
         current = current->next;
     }
 }

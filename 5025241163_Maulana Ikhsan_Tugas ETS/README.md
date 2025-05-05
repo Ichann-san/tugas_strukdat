@@ -1,7 +1,7 @@
 # Laporan Soal ETS Struktur Data
 
 
-## [Daftar Soal]
+## [Daftar Soal](Soal.pdf)
 
 - ### Evaluasi perintah gerakan robot menggunakan stack
   Soal ini 
